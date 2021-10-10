@@ -1,5 +1,6 @@
-# Calculadora-Android_
-Calculadora feita para android em Java, nada demais além disso
+# Calculadora Android
+
+Calculadora feita para android em Java, com um layout simples e operações básicas.
 
 ## Demonstração
 
